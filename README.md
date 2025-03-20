@@ -8,3 +8,7 @@
 
 # Overview
 A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. Experience the ultimate medieval adventure – through the eyes of young Henry – as you embark on a journey of epic proportions.
+
+# Functions
+![Kingdom-Come-Deliverance-II-Gold-Edition-NFO](https://github.com/user-attachments/assets/b2e142d6-e6ef-4a3f-933e-53b7187ef3e5)
+
